@@ -22,6 +22,7 @@ public class AddTwoValuesTest {
         Assert.assertEquals ("22 + 10 must be 32", 32, calc.add (22, 10));
 
     }
+
     @Test
     public void testsubPositiveValues() {
         // Class for testing
